@@ -1,6 +1,3 @@
-# thinkAR
- Facilitating Brainstorming through Augmented Reality: An Augmented Reality & Artificial Intelligence Mobile Application
-
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
@@ -32,7 +29,7 @@ To run tests, run the following command
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_avatars.jpg)
 
   
 ## Deployment
