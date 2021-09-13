@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+app/Prefabs/.DS_Store
+.DS_Store
