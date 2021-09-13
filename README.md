@@ -2,33 +2,62 @@
 ![Logo](https://github.com/benediktkau/thinkAR/blob/main/res/logo.png)
 
     
-# thinkAR - AR Brainstorming Mobile App
+# thinkAR - an 🤯 AR Brainstorming Mobile App
 
-An Augmented Reality & Artificial Intelligence Mobile Application for Design Thinking
+### An Augmented Reality & Artificial Intelligence Mobile Application for Design Thinking
+
 
 **thinkAR** is an Android and iOS mobile application based on Unity’s hybrid AR Foundation framework with a Node-RED and IBM Cloudant back end including IBM Watson services. The result demonstrates the feasibility of designing usable AR brainstorming and design thinking applications. The prototype may lay the groundwork for subsequent user acceptance research examining the relationship between AR and creativity.
 
   
 <details>
 <summary>Context & Background</summary>
-<p>thinkAR is an Android and iOS mobile application based on Unity’s hybrid AR Foundation framework with a Node-RED and IBM Cloudant back end including IBM Watson services. The result demonstrates the feasibility of designing usable AR brainstorming and design thinking applications. The prototype may lay the groundwork for subsequent user acceptance research examining the relationship between AR and creativity.</p>
+<p>Recent transitions to working from home exposed the challenges surrounding remote collab- orative brainstorming. Existing ideation tools have concentrated predominantly on variants of digital whiteboard designs. Despite research suggesting that brainstorming in open settings with three-dimensional objects may yield more creative results, the role of Augmented Reality (AR) in ideation tools has remained largely unexplored.
+This project aims to investigate the extent to which AR can facilitate the design thinking process. A prototype realised a three-dimensional interpretation of core design thinking concepts based on AR design principles. thinkAR is an Android and iOS mobile application based on Unity’s hybrid AR Foundation framework with a Node-RED and IBM Cloudant back end including IBM Watson services. The result demonstrates the feasibility of designing usable AR brainstorming and design thinking applications. The prototype may lay the groundwork for subsequent user acceptance research examining the relationship between AR and creativity.</p>
  </details>
 
   
-## Authors
-
+## 🤓 Authors
+**MSc Computer Science Thesis with IBM**
 - [@benediktkau](https://www.github.com/benediktkau)
   
-## Screenshots
+## 🥳 Screenshots
 
 ![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_avatars.jpg)
 
-![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_avatars.jpg)
+_3D Persona Avatars can be added, edited and moved within the AR environment._
 
-![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_avatars.jpg)
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_empathymap.jpg)
+
+_The concept of design thinking empathy maps has been translated into a 3D AR environment._
+
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_ideas_sphere.jpg)
+
+_Virtual post-its can be added, edited and moved in the AR environment._
+
+
+<details>
+<summary>😱 Even more screenshots</summary>
+<p>
+    
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_login.jpg)
+    
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_searchingplanes.jpg)
+
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_avatar_selector.jpg)
+    
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_scaling_avatars_large.jpg)
+
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_scaling_avatars_small.jpg)
+
+![App Screenshot](https://github.com/benediktkau/thinkAR/blob/main/res/screenshots/screenshot_toggle_design_thinking.jpg)
+    
+</p>
+ </details>
+
 
   
-## Deployment
+## 🔥 Deployment
 
 ### 📱 Front end
 
