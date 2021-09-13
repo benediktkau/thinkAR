@@ -35,8 +35,11 @@ To run tests, run the following command
   
 ## Deployment
 
+### Front end
 
-
+<details>
+<summary>Title 1</summary>
+<p>
 1. Create an empty Unity 3D project
 2. Install all packages from the manifest.json
 3. Follow all steps to set up the AR Foundation environment: https://learn.unity.com/ tutorial/setting-up-ar-foundation#5fe2be51edbc2a1f5e698730
@@ -55,6 +58,10 @@ MainMenu.cs file (see Figure A.1)
 Watson service into the fields (see Figure A.2)
 3. Find the ToneAnalyzer GameObject and enter all IAM authentication credentials for the
 Watson service into the fields (see Figure A.3).
+</p>
+</details>
+
+
 ## 🚀 About Me
 I'm a full stack developer...
 
